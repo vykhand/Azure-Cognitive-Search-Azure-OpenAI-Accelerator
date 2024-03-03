@@ -15,3 +15,4 @@ credentials.env
 infra/target/
 apps/frontend/frontend.zip
 apps/backend/backend.zip
+.env
